@@ -1,16 +1,26 @@
-## Hi there 👋
+# Carlos
 
-<!--
-**CarlosBor/CarlosBor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Brief headline or mission statement.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Web developer focused on front-end
+- Experience with React, Vite, Node, Docker
+- Currently working on [meatSort](link) and educational tools
+
+## Skills
+
+- Languages: JavaScript, TypeScript, HTML, CSS
+- Tools: Git, Webpack, Vite, Docker
+- Libraries: React, Express, Sequelize, MongoDB
+
+## Projects
+
+- [meatSort](link): Satirical content sorting platform
+- [D&D Tracker](link): 5e campaign manager
+- [KidGame](link): Game platform inspired by Kahoot/Gartic Phone
+
+## Contact
+
+- Email: your@email.com
+- LinkedIn: [profile](link)
